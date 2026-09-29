@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.45, for Win64 (x86_64)
 --
--- Host: localhost    Database: mini_project
+-- Host: localhost    Database: retail_store
 -- ------------------------------------------------------
 -- Server version	8.0.45
 
